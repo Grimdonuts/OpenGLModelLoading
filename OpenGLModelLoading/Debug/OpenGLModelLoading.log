@@ -1,0 +1,10 @@
+﻿  model_loading.cpp
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\icesc\desktop\gameideas\openglmodelloading\openglmodelloading\openglmodelloading\model_loading.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLModelLoading.vcxproj -> C:\Users\icesc\Desktop\gameideas\OpenGLModelLoading\OpenGLModelLoading\Debug\OpenGLModelLoading.exe
